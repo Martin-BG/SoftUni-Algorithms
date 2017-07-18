@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fractional Knapsack", "01. Fractional Knapsack\01. Fractional Knapsack.csproj", "{AA35C5C6-AB46-40B1-89F0-8177325AD506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Processor Scheduling", "02. Processor Scheduling\02. Processor Scheduling.csproj", "{64AE9573-8BD9-432D-8F1B-D394A8C7D39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Knight's Tour", "03. Knight's Tour\03. Knight's Tour.csproj", "{0A863DAC-5542-46BA-A175-C175CEEC4D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Best Lectures Schedule", "04. Best Lectures Schedule\04. Best Lectures Schedule.csproj", "{4C154AB8-F26F-4A9C-B141-58E0A1692152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Egyptian Fractions", "05. Egyptian Fractions\05. Egyptian Fractions.csproj", "{F8C9F6B0-A30A-409C-9E1E-1883F35A75C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA35C5C6-AB46-40B1-89F0-8177325AD506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA35C5C6-AB46-40B1-89F0-8177325AD506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA35C5C6-AB46-40B1-89F0-8177325AD506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA35C5C6-AB46-40B1-89F0-8177325AD506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AE9573-8BD9-432D-8F1B-D394A8C7D39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AE9573-8BD9-432D-8F1B-D394A8C7D39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AE9573-8BD9-432D-8F1B-D394A8C7D39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AE9573-8BD9-432D-8F1B-D394A8C7D39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A863DAC-5542-46BA-A175-C175CEEC4D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A863DAC-5542-46BA-A175-C175CEEC4D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A863DAC-5542-46BA-A175-C175CEEC4D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A863DAC-5542-46BA-A175-C175CEEC4D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C154AB8-F26F-4A9C-B141-58E0A1692152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C154AB8-F26F-4A9C-B141-58E0A1692152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C154AB8-F26F-4A9C-B141-58E0A1692152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C154AB8-F26F-4A9C-B141-58E0A1692152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C9F6B0-A30A-409C-9E1E-1883F35A75C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C9F6B0-A30A-409C-9E1E-1883F35A75C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C9F6B0-A30A-409C-9E1E-1883F35A75C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C9F6B0-A30A-409C-9E1E-1883F35A75C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
