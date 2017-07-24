@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fibonacci", "01. Fibonacci\01. Fibonacci.csproj", "{82ADA547-4E1D-4331-8D8B-08D3BA7CDC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Longest Increasing Subsequence", "02. Longest Increasing Subsequence\02. Longest Increasing Subsequence.csproj", "{CEFF2CD9-CDA0-46BF-981D-A1700DB3A54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Move Down-Right", "03. Move Down-Right\03. Move Down-Right.csproj", "{7B2F7B71-20B2-4119-90FB-F4DC36EC8DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rod Cutting", "04. Rod Cutting\04. Rod Cutting.csproj", "{5D9F9767-3CE0-4735-95D0-8E7635727823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82ADA547-4E1D-4331-8D8B-08D3BA7CDC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ADA547-4E1D-4331-8D8B-08D3BA7CDC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ADA547-4E1D-4331-8D8B-08D3BA7CDC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ADA547-4E1D-4331-8D8B-08D3BA7CDC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFF2CD9-CDA0-46BF-981D-A1700DB3A54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFF2CD9-CDA0-46BF-981D-A1700DB3A54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFF2CD9-CDA0-46BF-981D-A1700DB3A54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFF2CD9-CDA0-46BF-981D-A1700DB3A54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2F7B71-20B2-4119-90FB-F4DC36EC8DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2F7B71-20B2-4119-90FB-F4DC36EC8DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2F7B71-20B2-4119-90FB-F4DC36EC8DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2F7B71-20B2-4119-90FB-F4DC36EC8DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9F9767-3CE0-4735-95D0-8E7635727823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9F9767-3CE0-4735-95D0-8E7635727823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9F9767-3CE0-4735-95D0-8E7635727823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9F9767-3CE0-4735-95D0-8E7635727823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
