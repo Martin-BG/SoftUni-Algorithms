@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stars in the Cube", "01. Stars in the Cube\01. Stars in the Cube.csproj", "{BAA1ECE1-2B09-432D-856D-2B76E34FC4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Guitar", "02. Guitar\02. Guitar.csproj", "{5518581A-59E8-404A-889E-703025AF8D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Shortest Path", "03. Shortest Path\03. Shortest Path.csproj", "{AECDEF42-B41A-4180-8110-6F15F7077362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA1ECE1-2B09-432D-856D-2B76E34FC4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA1ECE1-2B09-432D-856D-2B76E34FC4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA1ECE1-2B09-432D-856D-2B76E34FC4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA1ECE1-2B09-432D-856D-2B76E34FC4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5518581A-59E8-404A-889E-703025AF8D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5518581A-59E8-404A-889E-703025AF8D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5518581A-59E8-404A-889E-703025AF8D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5518581A-59E8-404A-889E-703025AF8D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECDEF42-B41A-4180-8110-6F15F7077362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECDEF42-B41A-4180-8110-6F15F7077362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECDEF42-B41A-4180-8110-6F15F7077362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECDEF42-B41A-4180-8110-6F15F7077362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
