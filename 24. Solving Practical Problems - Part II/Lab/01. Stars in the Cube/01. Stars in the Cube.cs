@@ -32,6 +32,7 @@ namespace _01.Stars_in_the_Cube
                     }
                 }
             }
+
             var stars = new SortedDictionary<char, int>();
 
             for (var layer = 1; layer < size - 1; layer++)
