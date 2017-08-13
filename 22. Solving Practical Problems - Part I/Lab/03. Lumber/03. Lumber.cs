@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace _03.Lumber
 {
@@ -56,6 +57,8 @@ namespace _03.Lumber
                 _count++;
             }
 
+            var sb = new StringBuilder();
+
             for (var i = 0; i < queries; i++)
             {
                 var query = Console.ReadLine()
@@ -63,8 +66,10 @@ namespace _03.Lumber
                     .Select(int.Parse)
                     .ToArray();
 
-                Console.WriteLine(id[query[0]] == id[query[1]] ? "YES" : "NO");
+                sb.AppendLine(id[query[0]] == id[query[1]] ? "YES" : "NO");
             }
+
+            Console.Write(sb.ToString());
         }
 
         private static void DFS(int i, bool[] visited, IList<int> id, List<int>[] graph)
