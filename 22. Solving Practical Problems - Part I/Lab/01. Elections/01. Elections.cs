@@ -24,20 +24,20 @@ namespace _01.Elections
             var votesDp = new BigInteger[maxVotes + 1];
             votesDp[0] = BigInteger.One;
 
-            var highestSeets = 0;
+            var mostSeats = 0;
 
             foreach (var partyVotes in votes)
             {
-                for (var j = highestSeets + partyVotes; j >= partyVotes; j--)
+                for (var j = mostSeats + partyVotes; j >= partyVotes; j--)
                 {
                     if (votesDp[j - partyVotes].Equals(BigInteger.Zero))
                     {
                         continue;
                     }
 
-                    if (highestSeets < j)
+                    if (mostSeats < j)
                     {
-                        highestSeets = j;
+                        mostSeats = j;
                     }
 
                     votesDp[j] += votesDp[j - partyVotes];
